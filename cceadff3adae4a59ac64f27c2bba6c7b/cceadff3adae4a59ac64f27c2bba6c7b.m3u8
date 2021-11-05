@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:2.000000,
+cceadff3adae4a59ac64f27c2bba6c7b0.ts
+#EXTINF:2.000000,
+cceadff3adae4a59ac64f27c2bba6c7b1.ts
+#EXTINF:2.000000,
+cceadff3adae4a59ac64f27c2bba6c7b2.ts
+#EXTINF:2.000000,
+cceadff3adae4a59ac64f27c2bba6c7b3.ts
+#EXTINF:2.000000,
+cceadff3adae4a59ac64f27c2bba6c7b4.ts
+#EXT-X-ENDLIST
